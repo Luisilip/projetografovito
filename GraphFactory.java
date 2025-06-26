@@ -1,3 +1,4 @@
+// Classe GraphFactory
 public class GraphFactory {
     public static Graph createGraph() {
         Graph graph = new Graph(27);
